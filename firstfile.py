@@ -1,4 +1,3 @@
-
 name="Ana-Maria"
 print("What a nice blouse you have, " + name)
 
