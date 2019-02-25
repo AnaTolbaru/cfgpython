@@ -1,1 +1,1 @@
-Hello
+print(I love python)
